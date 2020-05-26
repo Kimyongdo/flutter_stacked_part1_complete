@@ -33,7 +33,7 @@ dependencies:
   # inversion of control
   get_it:
   injectable:
-  flutter_hooks:
+  flutter_hooks: ^0.9.0
   observable_ish:
   image_picker: ^0.6.6+4
   http: ^0.12.0+4
